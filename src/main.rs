@@ -19,5 +19,11 @@ fn main() {
 
     // similarly we have bool, f8 for float 8bit , u8 for unsigned 8bit , etc
     
+    // strings 
+
+    let s = "My string";
+    let s1: String = String::from("my string");
+
+    
 
 }
