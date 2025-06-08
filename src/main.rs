@@ -24,6 +24,28 @@ fn main() {
     let s = "My string";
     let s1: String = String::from("my string");
 
-    
+    // conditionals and loops
 
+    let b = false;
+    if b {
+        print!("b is true");
+    }else{
+        print!("b is false");
+    }
+
+    for i in 0..100 {
+        println!("{}", i);
+    }
+}
+
+// Function to get the first word from a sentence
+fn get_first_word(sentence: String) -> String {
+    let mut ans = String::from("");
+    for ch in sentence.chars() {
+        if ch == ' ' {
+            break;
+        }
+        ans.push(ch);
+    }
+    ans
 }
