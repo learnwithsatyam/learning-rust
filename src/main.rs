@@ -61,3 +61,5 @@ fn get_first_word(sentence: String) -> String {
 // Need to get my hands on rust as fast as possible. 
 
 // I need to start posting more on twitter
+
+// finish the trading bot as fast as possible
