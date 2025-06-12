@@ -63,3 +63,5 @@ fn get_first_word(sentence: String) -> String {
 // I need to start posting more on twitter
 
 // finish the trading bot as fast as possible
+
+// last step is to start marketing paid
