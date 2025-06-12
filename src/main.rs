@@ -55,3 +55,5 @@ fn get_first_word(sentence: String) -> String {
 // Rust sdk is available to mcp servers also
 
 // watched the video on creating a simple webserver for my trading bot in rust
+
+// Realised that mcp servers run locally and the way they work is different than my use case. I thought I could send request to claude but only claude can use the mcp server
