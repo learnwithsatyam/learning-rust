@@ -49,3 +49,5 @@ fn get_first_word(sentence: String) -> String {
     }
     ans
 }
+
+// Rust sdk is available for zerodha
