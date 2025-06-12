@@ -65,3 +65,5 @@ fn get_first_word(sentence: String) -> String {
 // finish the trading bot as fast as possible
 
 // last step is to start marketing paid
+
+// learnt how to build a chrome extension
