@@ -53,3 +53,5 @@ fn get_first_word(sentence: String) -> String {
 // Rust sdk is available for zerodha
 
 // Rust sdk is available to mcp servers also
+
+// watched the video on creating a simple webserver for my trading bot in rust
