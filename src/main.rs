@@ -77,3 +77,5 @@ fn get_first_word(sentence: String) -> String {
 // understood the concept of state machines and how they are used in async programming
 
 // learnt about the pattern matching in rust.
+
+// learnt about the async/await syntax in rust
