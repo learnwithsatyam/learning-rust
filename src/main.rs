@@ -67,3 +67,5 @@ fn get_first_word(sentence: String) -> String {
 // last step is to start marketing paid
 
 // learnt how to build a chrome extension
+
+// started understanding about the asynchronous programming in rust
