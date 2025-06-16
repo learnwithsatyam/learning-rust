@@ -79,3 +79,5 @@ fn get_first_word(sentence: String) -> String {
 // learnt about the pattern matching in rust.
 
 // learnt about the async/await syntax in rust
+
+// learnt about the futures in rust and how they are used to handle asynchronous programming
