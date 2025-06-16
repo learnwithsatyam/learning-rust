@@ -81,3 +81,5 @@ fn get_first_word(sentence: String) -> String {
 // learnt about the async/await syntax in rust
 
 // learnt about the futures in rust and how they are used to handle asynchronous programming
+
+// learn about the enums and how they are used in rust for state machines
