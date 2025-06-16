@@ -73,3 +73,5 @@ fn get_first_word(sentence: String) -> String {
 // learnt about the concept of async executer , wakers ,etc 
 
 // still trying to wrap my head around the concurrency in rust
+
+// understood the concept of state machines and how they are used in async programming
